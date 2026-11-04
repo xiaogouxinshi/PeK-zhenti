@@ -26,7 +26,7 @@
 
 1. 将本目录全部文件（含隐藏的 `.nojekyll`）上传到仓库根目录
 2. 仓库 **Settings → Pages → Source** 选择 `main` 分支 `/ (root)`，保存
-3. 稍等 1\~2 分钟，访问 `https://<用户名>.github.io/<仓库名>/`
+3. 稍等 1\~2 分钟，访问 `https://<xiaogouxinshi>.github.io/<PeK-zhenti>/`
 
 > `.nojekyll` 用于跳过 Jekyll 构建——本页面含大段 base64 音频数据，必须跳过处理才能正常发布。
 
